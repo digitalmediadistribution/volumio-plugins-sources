@@ -10,11 +10,13 @@ Usually depending on the available keys of a particular remote typically (but no
 Currently the plugin ships with configurations for the following remote controls:
 
 * Accuphase RC-250
+* Aiyima T9 Pro
 * Apple Remote A1156 Alternative
 * Apple Remote A1156
 * Apple Remote A1294 Alternative
 * Apple Remote A1294
 * Arcam ir-DAC-II Remote
+* Argon Remote
 * Atrix Remote
 * Bluesound RC1
 * Copland RC-102A
@@ -23,15 +25,18 @@ Currently the plugin ships with configurations for the following remote controls
 * Luxman RA-17
 * Marantz RC003PMCD
 * MCE USB
+* NAD AMP 3
 * Odroid Remote
 * PDP Gaming Remote Control
 * Panasonic EUR643824
 * PDP Gaming Remote Control
 * Philips CD723
 * Pioneer CU-PD053
+* Pro-Ject Control it Pre Box S2 Digital
 * Samsung AA59-00431A
 * Samsung_BN59-006XXA
 * Technics RAK-SL948WK
+* Tmall Magic Box 1S Remote Control
 * XBox 360 Remote
 * XBox One Remote
 * Xiaomi IR for TV box
